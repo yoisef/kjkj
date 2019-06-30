@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/cardtype"
+        app:cardBackgroundColor="@color/white"
+        android:layout_margin="10dp"
+        android:elevation="8dp"
+        android:padding="2dp"
+        android:layout_height="200dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="match_parent"
+                android:src="@drawable/maindish"
+                android:scaleType="centerCrop"
+                android:layout_weight="1"
+                android:id="@+id/imgty"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="مشويات"
+                android:id="@+id/textfavorow"
+                android:layout_margin="5dp"
+                android:textColor="@color/black"
+                android:layout_alignParentBottom="true"
+                android:textStyle="bold"
+                android:textSize="@dimen/middle"
+                android:gravity="center"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:layout_width="50dp"
+                android:id="@+id/favourt"
+                android:layout_margin="5dp"
+                android:src="@drawable/favogray"
+                android:layout_height="50dp" />
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>
