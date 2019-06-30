@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">AR-Foods</string>
+    <string name="arlanguage">العربية</string>
+    <string name="enter">Enter</string>
+    <string name="enlangauge">English</string>
     <string name="alexsusageintegr">2 onions medium\n
 2 tomatoes\n
 2 turkey pepper\n

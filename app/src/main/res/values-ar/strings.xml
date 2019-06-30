@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">AR-أطعمة</string>
+    <string name="arlanguage">العربية</string>
+    <string name="enter">دخول</string>
+    <string name="enlangauge">English</string>
     <string name="alexsusageintegr">2 بصل متوسط ​​\ n
 2 طماطم \ n
 2 فلفل رومي \ n
