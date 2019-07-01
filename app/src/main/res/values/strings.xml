@@ -3,6 +3,10 @@
     <string name="arlanguage">العربية</string>
     <string name="enter">Enter</string>
     <string name="enlangauge">English</string>
+    <string name="maindishes">Main Dishes</string>
+    <string name="salad">Salad</string>
+    <string name="soup">Soup</string>
+    <string name="desert">Dessert</string>
     <string name="alexsusageintegr">2 onions medium\n
 2 tomatoes\n
 2 turkey pepper\n

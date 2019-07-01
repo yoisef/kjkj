@@ -37,10 +37,10 @@ public class egyptfragment extends Fragment {
         myrecycle.setLayoutManager(new LinearLayoutManager(context));
 
         typelist=new ArrayList<>();
-        typelist.add(new foodtypes(R.drawable.mainegypt,"Main Dishes"));
-        typelist.add(new foodtypes(R.drawable.saladegypt,"Salad"));
-        typelist.add(new foodtypes(R.drawable.soupegypt,"Soup"));
-        typelist.add(new foodtypes(R.drawable.entrees,"Dessert"));
+        typelist.add(new foodtypes(R.drawable.mainegypt,getResources().getString(R.string.maindishes)));
+        typelist.add(new foodtypes(R.drawable.saladegypt,getResources().getString(R.string.salad)));
+        typelist.add(new foodtypes(R.drawable.soupegypt,getResources().getString(R.string.soup)));
+        typelist.add(new foodtypes(R.drawable.entrees,getResources().getString(R.string.desert)));
 
 
 

@@ -36,10 +36,11 @@ public class syrfrag extends android.support.v4.app.Fragment {
         myrecycle.setLayoutManager(new LinearLayoutManager(context));
 
         typelist=new ArrayList<>();
-        typelist.add(new foodtypes(R.drawable.maindish,"Main Dishes"));
-        typelist.add(new foodtypes(R.drawable.salad,"Salad"));
-        typelist.add(new foodtypes(R.drawable.soup,"Soup"));
-        typelist.add(new foodtypes(R.drawable.entrees,"Dessert"));
+        typelist.add(new foodtypes(R.drawable.maindish,getResources().getString(R.string.maindishes)));
+        typelist.add(new foodtypes(R.drawable.salad,getResources().getString(R.string.salad)));
+        typelist.add(new foodtypes(R.drawable.soup,getResources().getString(R.string.soup)));
+        typelist.add(new foodtypes(R.drawable.entrees,getResources().getString(R.string.desert)));
+
 
 
 
