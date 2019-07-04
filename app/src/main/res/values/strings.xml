@@ -7,6 +7,70 @@
     <string name="salad">Salad</string>
     <string name="soup">Soup</string>
     <string name="desert">Dessert</string>
+    <string name="egyfood">Egyptian Food</string>
+    <string name="syrfood">Syrian Food</string>
+    <string name="gulfood">Gulf Food</string>
+
+    //foodnames
+    <string name="alexsusage">Alex sausage</string>
+    <string name="beanwithfriedeggs">Bean with fried eggs</string>
+    <string name="StuffedChickenRoll">Stuffed Chicken Roll</string>
+    <string name="GreenMallochia">Green Mallochia</string>
+    <string name="EgyptianKoshri">Egyptian Koshri</string>
+    <string name="ZucchiniwithBechamel">Zucchini with Bechamel</string>
+    <string name="TorleyCasserolewithMeat">Torley Casserole with Meat</string>
+    <string name="Chiliprawns">Chili prawns</string>
+    <string name="Besara">Besara</string>
+    <string name="Artichokebakedwithspinachandcream">Artichoke baked with spinach and cream</string>
+    <string name="Nersco">Nersco</string>
+    <string name="CrispyChickenBalls">Crispy Chicken Balls</string>
+    <string name="BabaGhanoug">Baba Ghanoug (Spiced Eggplant)</string>
+    <string name="Saladflour">Salad flour</string>
+    <string name="Spicypotatosalad">Spicy potato salad</string>
+    <string name="Hummussalad">Hummus salad</string>
+    <string name="Saladodcoolslo">Salad od cool slo</string>
+    <string name="Taboulehsaladwithpomegranateseeds">Tabouleh salad with pomegranate seeds</string>
+    <string name="Piesalad">Pie salad</string>
+    <string name="Caesarsaladwithpastao">Caesar salad with pastao</string>
+    <string name="Beetsalad">Beet salad</string>
+    <string name="Eggplantsalad">Eggplant salad</string>
+    <string name="Watercresssalad">Watercress salad</string>
+    <string name="Pastasaladwithtuna">Pasta salad with tuna</string>
+    <string name="Tunasaladwithpotatoes">Tuna salad with potatoes</string>
+    <string name="lentilsoupwithgreenonions">lentil soup with green onions</string>
+    <string name="ricesoupworkswithoatmealandchickenstrips">rice soup works with oatmeal and chicken strips</string>
+    <string name="cabbagesoupandbasil">cabbage soup and basil</string>
+    <string name="Soupofabirdwithvegetables"> Soup of a bird with vegetables</string>
+    <string name="garlicsoup">garlic soup</string>
+    <string name="Basbousastuffedwithcream">Basbousa stuffed with cream</string>
+    <string name="Ricewithmilk">Rice with milk</string>
+    <string name="Bullyingwithpuddles">Bullying with puddles</string>
+    <string name="BasbousaOrio">Basbousa Orio</string>
+    <string name="SaudiKabsawithmeat">Saudi Kabsa with meat</string>
+    <string name="yellowricewithchicken">yellow rice with chicken</string>
+    <string name="Hotcauliflowersauce">Hot cauliflower sauce</string>
+    <string name="ChickenMandy">Chicken Mandy</string>
+    <string name="ChickenTandoori">Chicken Tandoori</string>
+    <string name="Shakshukamincedmeat">Shakshuka minced meat</string>
+    <string name="Pomegranatesaladwithspinachhealth">Pomegranate salad with spinach health</string>
+    <string name="Flowersaladwitholiveoil">Flower salad with olive oil</string>
+    <string name="Saladwithgoatcheese">Salad with goat cheese</string>
+    <string name="Fatoshsalad">Fatoshsalad</string>
+    <string name="SaladofCapricornwithAlmocarilla">Salad of Capricorn with Almocarilla</string>
+    <string name="Beetwithfreshcheesewithonlytwoingredients">Beet with fresh cheese with only two ingredients</string>
+    <string name="Artichokesoupwithmilkandonions">Artichoke soup with milk and onions</string>
+    <string name="Gulfsoupwithvegetablesanddates">Gulf soup with vegetables and dates</string>
+    <string name="Creamymushroomsoup">Creamy mushroom soup</string>
+    <string name="SpinachsoupwithSpaghettiSpaghetti">Spinach soup with Spaghetti Spaghetti</string>
+    <string name="AlRayhanSoup">Al Rayhan Soup</string>
+    <string name="Datesrolls">Dates rolls</string>
+    <string name="Chocolatetablets">Chocolate tablets</string>
+    <string name="Swords">Swords</string>
+    <string name="MiniTarwithcashewandapricotjam">Mini Tart with cashew and apricot jam </string>
+    <string name="Mincedcakewithdriedfruits">Minced cake with dried fruits</string>
+    <string name="CookieButterCookies">Cookie Butter Cookies</string>
+    <string name="MiniTartwithStrawberryJam">Mini Tart with Strawberry Jam</string>
+        
     <string name="alexsusageintegr">2 onions medium\n
 2 tomatoes\n
 2 turkey pepper\n
@@ -283,7 +347,7 @@ Salt and Pepper</string>
 3 tablespoons soft, washed broccoli\n
 Juice 2 sour lemon\n\n
 Two tablespoons of pomegranate molasses
-   1 cup of olive oil\n
+   1 cup of olive oil\n
 1/4 teaspoon soft cinnamon\n
 Pour according to desire\n
 Salt, to taste</string>
@@ -311,15 +375,15 @@ Serve with lettuce leaves and cabbage.
 . Vegetable oil (corn oil, sunflower oil) is abundant for frying\n
 . Salt, to taste. Tahini sauce.\n\n
     Ingredients of tahini sauce:\n
-  Half a cup of tahini\n
+  Half a cup of tahini\n
 . Four cloves of garlic, mashed\n
 . A glass of yogurt\n
 . Two tablespoons of vinegar</string>
     <string name="piesaladway">Preparation of tahini sauce:\n
- We put in a deep bowl all of the tahini, yogurt, garlic, vinegar\n
+ We put in a deep bowl all of the tahini, yogurt, garlic, vinegar\n
 . Beat the ingredients using a manual handkerchief for 2 minutes, leaving the pot aside until it is needed\n
 . Preparation of pans salad:\n
- Wash both zucchini, eggplant, potatoes, sweet green peppers, lettuce leaves, and peel both eggplant and potatoes.\n
+ Wash both zucchini, eggplant, potatoes, sweet green peppers, lettuce leaves, and peel both eggplant and potatoes.\n
         Cut eggplant,
         potatoes, squash, bread into small cubes, and cut lettuce and sweet green peppers into longitudinal strips.\n
         Sprinkle the eggplant cubes with a little salt and leave them for 15 minutes to get rid of the bitter taste in it,
@@ -390,10 +454,10 @@ latency
 
     </string>
     <string name="pastatunainteg">Five hundred grams of pasta, preferably from good pasta.\n
-  A full-size tuna tray.\n
-  Medium onion.\n
-  Three grains of tomatoes.\n
-  Colorful turkey pepper.\n
+  A full-size tuna tray.\n
+  Medium onion.\n
+  Three grains of tomatoes.\n
+  Colorful turkey pepper.\n
         A clove of garlic. Two cups of sweet corn. Half a cup of black olives
 . Four tablespoons of mayonnaise.\n
         A tablespoon of ketchup. \n
@@ -536,67 +600,67 @@ Salt and pepper\n
     <string name="basbousaeshtainteg">
         A glass of sugar.\n
 A cup of semolina.\n
-  A cup of flour.\n
-  A cup of yoghurt.\n
+  A cup of flour.\n
+  A cup of yoghurt.\n
 A glass of oil.\n
-  A glass of warm water.\n
-  A cup of coconut.\n Ingredients of cream:\n
-  Three cups of milk.\n
-  Four tablespoons of starch.\n
-  Sugar according to desire.
+  A glass of warm water.\n
+  A cup of coconut.\n Ingredients of cream:\n
+  Three cups of milk.\n
+  Four tablespoons of starch.\n
+  Sugar according to desire.
     </string>
     <string name="basbosaeshtaway">
         Mix the ingredients of the cream in a saucepan.\n
-  We move the ingredients to homogenize and weigh together.\n
-  Remove the pot from the fire, then add the water.\n
-  Mix the ingredients of the onion.\n
-  Add the Pyrex tray with oil.\n
-  We put half of the ingredients in Chinese.\n
+  We move the ingredients to homogenize and weigh together.\n
+  Remove the pot from the fire, then add the water.\n
+  Mix the ingredients of the onion.\n
+  Add the Pyrex tray with oil.\n
+  We put half of the ingredients in Chinese.\n
 Put the cream, then the other half of the pepsosa.\n
-  Place the Pyrex tray in the oven at 180 ° C for about one hour until it turns brown from the top.\n
-  We leave the Chinese so cool, then adorn.\n
+  Place the Pyrex tray in the oven at 180 ° C for about one hour until it turns brown from the top.\n
+  We leave the Chinese so cool, then adorn.\n
 
     </string>
     <string name="bsbosabl2shtainteg">
 A glass of sugar.\n
-  A cup of semolina.\n
-  A cup of flour.\n
+  A cup of semolina.\n
+  A cup of flour.\n
 A cup of yoghurt.\n
 A glass of oil.\n
 A glass of warm water.\n
-  A cup of coconut\n\n
+  A cup of coconut\n\n
         Ingredients of cream:\n
-  Three cups of milk.\n
-  Four tablespoons of starch.\n
-  Sugar according to desire
+  Three cups of milk.\n
+  Four tablespoons of starch.\n
+  Sugar according to desire
     </string>
     <string name="bsbosabl2shtaway">
         Mix the ingredients of the cream in a saucepan.\n
-  We move the ingredients to homogenize and weigh together.\n
-  Remove the pot from the fire, then add the water.\n
-  Mix the ingredients of the onion.\n
+  We move the ingredients to homogenize and weigh together.\n
+  Remove the pot from the fire, then add the water.\n
+  Mix the ingredients of the onion.\n
 Add the Pyrex tray with oil.\n
-  We put half of the ingredients in Chinese.\n
-  Put the cream, then the other half of the pepsosa.\n
+  We put half of the ingredients in Chinese.\n
+  Put the cream, then the other half of the pepsosa.\n
 Place the Pyrex tray in the oven at 180 ° C for about one hour until it turns brown from the top.\n
-  We leave the Chinese so cool, then adorn.
+  We leave the Chinese so cool, then adorn.
     </string>
     <string name="ricemilkinteg">
         Two cups of rice.\n
 Four liters of milk.\n
-  Four cups of sugar.
+  Four cups of sugar.
     </string>
     <string name="ricemilkway">
         Put the milk in a saucepan. Wait until the milk boils.\n
-  Wash rice, and drain well of water. Add the rice to the milk, then add the sugar.\n
-  Wait until the mixture becomes thick.\n
-  Remove the pot from the fire. Pour the rice in milk in suitable dishes. Garnish face with cinnamon and coconut.
+  Wash rice, and drain well of water. Add the rice to the milk, then add the sugar.\n
+  Wait until the mixture becomes thick.\n
+  Remove the pot from the fire. Pour the rice in milk in suitable dishes. Garnish face with cinnamon and coconut.
     </string>
     <string name="blozamhlbeainteg">
         Four glasses of orange juice.\n
-  Two cups of sugar.\n
-  Eight spoons of starch.\n
-  Two tablespoons of cast water. Kg of milk.
+  Two cups of sugar.\n
+  Eight spoons of starch.\n
+  Two tablespoons of cast water. Kg of milk.
 
     </string>
     <string name="blozaway">
@@ -610,11 +674,11 @@ Four liters of milk.\n
     </string>
     <string name="bsbosaoreinteg">
         Four eggs.\n
-  Cup only a quarter of sugar.\n
-  Cup only a quarter of the oil. A little flannel.\n
-  A cup of semolina. A teaspoon of baking powder.\n
-  Five beads of hand-broken tea biscuits. Eight beads of hand-broken Oreo.\n
-  Small packet of Pakistani vermicelli. Local and condensed milk for watering and decoration.
+  Cup only a quarter of sugar.\n
+  Cup only a quarter of the oil. A little flannel.\n
+  A cup of semolina. A teaspoon of baking powder.\n
+  Five beads of hand-broken tea biscuits. Eight beads of hand-broken Oreo.\n
+  Small packet of Pakistani vermicelli. Local and condensed milk for watering and decoration.
     </string>
     <string name="bsbosaoreoway">
         Beat eggs, then add sugar.\n
@@ -765,7 +829,7 @@ One quarter small onion powder
         1 Wash the chicken well, divide long halves.\n
 Put the oil in a bowl, add to the sauce, salt, black pepper, cinnamon, cloves, lettuce, garlic powder and onions, mix well.\n
 Let the chicken stir well and leave it for a night.\n
-  Light the electric grill with oil and place the chicken on it.\n
+  Light the electric grill with oil and place the chicken on it.\n
 It fluctuates from time to time until it ripens and is reddened.\n
 They are lifted from the grill, made hot.
     </string>
@@ -1010,7 +1074,7 @@ Until the basil is cooked.
 Tablespoon yeast
 Teaspoon baking powder
 1/4 cup vegetable oil
-   Water cup 3/4
+   Water cup 3/4
 Salt spray
 
     </string>

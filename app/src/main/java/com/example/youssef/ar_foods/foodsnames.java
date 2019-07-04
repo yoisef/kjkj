@@ -64,58 +64,58 @@ public class foodsnames extends AppCompatActivity {
         saladd2=new ArrayList<>();
         soupp2=new ArrayList<>();
 
-        main.add(new foodtypes(R.drawable.egyptf,"Alex sausage"));
-        main.add(new foodtypes(R.drawable.egyptf,"Bean with fried eggs"));
-        main.add(new foodtypes(R.drawable.egyptf,"Stuffed Chicken Roll"));
-        main.add(new foodtypes(R.drawable.egyptf,"Green Mallochia"));
-        main.add(new foodtypes(R.drawable.egyptf,"Egyptian Koshri"));
-        main.add(new foodtypes(R.drawable.egyptf,"Zucchini with Bechamel"));
-        main.add(new foodtypes(R.drawable.egyptf,"Torley Casserole with Meat"));
-        main.add(new foodtypes(R.drawable.egyptf,"Chili prawns"));
-        main.add(new foodtypes(R.drawable.egyptf,"Besara"));
-        main.add(new foodtypes(R.drawable.egyptf,"Artichoke baked with spinach and cream"));
-        main.add(new foodtypes(R.drawable.egyptf,"Nersco"));
-        main.add(new foodtypes(R.drawable.egyptf,"Crispy Chicken Balls"));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.alexsusage)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.beanwithfriedeggs)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.StuffedChickenRoll)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.GreenMallochia)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.EgyptianKoshri)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.ZucchiniwithBechamel)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.TorleyCasserolewithMeat)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Chiliprawns)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Besara)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Artichokebakedwithspinachandcream)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Nersco)));
+        main.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.CrispyChickenBalls)));
 
-        saladd.add(new foodtypes(R.drawable.egyptf,"Baba Ghanoug (Spiced Eggplant)"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Salad flour"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Spicy potato salad"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Hummus salad"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Salad od cool slo"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Tabouleh salad with pomegranate seeds"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Pie salad"));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.BabaGhanoug)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Saladflour)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Spicypotatosalad)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Hummussalad)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Saladodcoolslo)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Taboulehsaladwithpomegranateseeds)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Piesalad)));
         saladd.add(new foodtypes(R.drawable.egyptf,"Caesar salad with pastao"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Beet salad"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Eggplant salad"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Watercress salad"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Pasta salad with tuna"));
-        saladd.add(new foodtypes(R.drawable.egyptf,"Tuna salad with potatoes"));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Beetsalad)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Eggplantsalad)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Watercresssalad)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Pastasaladwithtuna)));
+        saladd.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Tunasaladwithpotatoes)));
 
-        soupp.add(new foodtypes(R.drawable.egyptf," lentil soup with green onions"));
-        soupp.add(new foodtypes(R.drawable.egyptf," rice soup works with oatmeal and chicken strips"));
-        soupp.add(new foodtypes(R.drawable.egyptf," cabbage soup and basil"));
-        soupp.add(new foodtypes(R.drawable.egyptf,"  Soup of a bird with vegetables"));
-        soupp.add(new foodtypes(R.drawable.egyptf," garlic soup"));
-        soupp.add(new foodtypes(R.drawable.egyptf," rice soup works with oatmeal and chicken strips"));
+        soupp.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.lentilsoupwithgreenonions)));
+        soupp.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.ricesoupworkswithoatmealandchickenstrips)));
+        soupp.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.cabbagesoupandbasil)));
+        soupp.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Soupofabirdwithvegetables)));
+        soupp.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.garlicsoup)));
+        soupp.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.ricesoupworkswithoatmealandchickenstrips)));
 
-        entreess.add(new foodtypes(R.drawable.egyptf,"Basbousa stuffed with cream"));
-        entreess.add(new foodtypes(R.drawable.egyptf,"Rice with milk"));
+        entreess.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Basbousastuffedwithcream)));
+        entreess.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.Ricewithmilk)));
         entreess.add(new foodtypes(R.drawable.egyptf,"Bullying with puddles"));
-        entreess.add(new foodtypes(R.drawable.egyptf,"Basbousa Orio"));
+        entreess.add(new foodtypes(R.drawable.egyptf,getResources().getString(R.string.BasbousaOrio)));
 
 
 
-        main1.add(new foodtypes(R.drawable.syri,"Saudi Kabsa with meat"));
-        main1.add(new foodtypes(R.drawable.syri,"yellow rice with chicken"));
-        main1.add(new foodtypes(R.drawable.syri,"Hot cauliflower sauce"));
-        main1.add(new foodtypes(R.drawable.syri,"Chicken Mandy"));
-        main1.add(new foodtypes(R.drawable.syri,"Chicken Tandoori"));
-        main1.add(new foodtypes(R.drawable.syri,"Shakshuka minced meat"));
+        main1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.SaudiKabsawithmeat)));
+        main1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.yellowricewithchicken)));
+        main1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.Hotcauliflowersauce)));
+        main1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.ChickenMandy)));
+        main1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.ChickenTandoori)));
+        main1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.Shakshukamincedmeat)));
 
-        saladd1.add(new foodtypes(R.drawable.syri,"Pomegranate salad with spinach health"));
-        saladd1.add(new foodtypes(R.drawable.syri,"Flower salad with olive oil"));
-        saladd1.add(new foodtypes(R.drawable.syri,"Salad with goat cheese"));
-        saladd1.add(new foodtypes(R.drawable.syri,"Fatoshsalad"));
+        saladd1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.Pomegranatesaladwithspinachhealth)));
+        saladd1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.Flowersaladwitholiveoil)));
+        saladd1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.Saladwithgoatcheese)));
+        saladd1.add(new foodtypes(R.drawable.syri,getResources().getString(R.string.Fatoshsalad)));
         saladd1.add(new foodtypes(R.drawable.syri,"Salad of Capricorn with Almocarilla"));
         saladd1.add(new foodtypes(R.drawable.syri,"Beet with fresh cheese with only two ingredients"));
 

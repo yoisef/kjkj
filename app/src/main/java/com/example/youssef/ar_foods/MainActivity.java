@@ -45,13 +45,13 @@ public class MainActivity extends AppCompatActivity {
         mypager.setAdapter(new pageradapter(getSupportFragmentManager()));
         mytab.setupWithViewPager(mypager);
 
-           egytap.setText("Egyptian Food");    //Icon made by Pixel perfect from www.flaticon.com
+           egytap.setText(getResources().getString(R.string.egyfood));    //Icon made by Pixel perfect from www.flaticon.com
         egytap.setIcon(R.drawable.egypt);
 
-        Gulftap.setText("Gulf Food");
+        Gulftap.setText(getResources().getString(R.string.gulfood));
         Gulftap.setIcon(R.drawable.saudia);
 
-        Syrtap.setText("Syrian food");
+        Syrtap.setText(getResources().getString(R.string.syrfood));
         Syrtap.setIcon(R.drawable.syria);
 
 
